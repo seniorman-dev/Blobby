@@ -1,3 +1,3 @@
 # blobby
 
-A new Flutter project.
+A User App Built with Flutter and Provider State Management
